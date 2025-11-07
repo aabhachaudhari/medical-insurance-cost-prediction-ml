@@ -31,7 +31,7 @@ Standard **Medical Insurance** dataset containing:
 - Region  
 - Charges (Insurance cost)
 
-> Can be sourced from Kaggle or included directly as CSV in the repository.
+> rahulvyasm/medical-insurance-cost-prediction from kaggle
 
 ---
 
@@ -51,7 +51,7 @@ Standard **Medical Insurance** dataset containing:
 - Jupyter Notebook / Google Colab
 
 # Clone repository
-git clone https://github.com/your-username/medical-insurance-cost-prediction-ml.git
+git clone https://github.com/aabhachaudhari/medical-insurance-cost-prediction-ml.git
 
 # Navigate to project folder
 cd medical-insurance-cost-prediction-ml
